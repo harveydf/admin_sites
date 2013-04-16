@@ -1,0 +1,10 @@
+
+.DS_Store
+
+*.db
+
+*.pyc
+
+admin_sites/settings.py
+
+venv
